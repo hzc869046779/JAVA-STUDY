@@ -6,11 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0090ccc8-db74-4497-ac80-1b76f172ccfc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/javaSenior/FileStudy/FileOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/javaSenior/FileStudy/FileOP.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" afterDir="false" />
-    </list>
+    <list default="true" id="0090ccc8-db74-4497-ac80-1b76f172ccfc" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +18,7 @@
     <session id="1144161803">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="35" />
+          <entry key="project.closed" value="36" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="3" />
@@ -36,7 +32,7 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="163" />
+          <entry key="java" value="165" />
           <entry key="png" value="10" />
           <entry key="properties" value="2" />
           <entry key="txt" value="2" />
@@ -45,7 +41,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="10" />
-          <entry key="JAVA" value="163" />
+          <entry key="JAVA" value="165" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="2" />
         </counts>
@@ -54,14 +50,14 @@
         <counts>
           <entry key="dummy" value="9" />
           <entry key="ft" value="4" />
-          <entry key="java" value="33261" />
+          <entry key="java" value="33670" />
           <entry key="properties" value="38" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33259" />
+          <entry key="JAVA" value="33668" />
           <entry key="PLAIN_TEXT" value="16" />
           <entry key="Properties" value="38" />
           <entry key="RegExp" value="2" />
@@ -71,7 +67,35 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/SerializableStudy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#919#946#1" expanded="true" />
+                <element signature="e#1174#1175#0" expanded="true" />
+                <element signature="e#1227#1228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,7 +119,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javaStudy/ExceptionStudy/DIYException.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/innerClass/innerClass.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/innerClass/inner_interface.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/FunctionalInterface.java" />
@@ -146,6 +169,7 @@
         <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/ScannerStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/SerializableStudy.java" />
       </list>
     </option>
   </component>
@@ -155,7 +179,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="265" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
@@ -217,7 +241,7 @@
     <property name="SearchEverywhereHistoryKey" value="set&#9;ACTION&#9;Images.SetBackgroundImage" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586938503914" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586940012762" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
@@ -230,17 +254,17 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="DataStructure.List" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior\FileStudy" />
       <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior\ThreadStudy" />
       <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior" />
       <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,7 +279,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ScannerStudy">
+  <component name="RunManager" selected="Application.SerializableStudy">
     <configuration name="BufferReaderStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.BufferReaderStudy" />
       <module name="HelloWorld" />
@@ -269,8 +293,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RandomAccessFileStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.RandomAccessFileStudy" />
+    <configuration name="ScannerStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.ScannerStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -282,8 +306,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.ScannerStudy" />
+    <configuration name="SerializableStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.SerializableStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -322,19 +346,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.RandomAccessFileStudy" />
       <item itemvalue="Application.printStreamStudy" />
       <item itemvalue="Application.SystemIO" />
       <item itemvalue="Application.BufferReaderStudy" />
       <item itemvalue="Application.ScannerStudy" />
+      <item itemvalue="Application.SerializableStudy" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SerializableStudy" />
         <item itemvalue="Application.ScannerStudy" />
         <item itemvalue="Application.BufferReaderStudy" />
         <item itemvalue="Application.SystemIO" />
         <item itemvalue="Application.printStreamStudy" />
-        <item itemvalue="Application.RandomAccessFileStudy" />
       </list>
     </recent_temporary>
   </component>
@@ -389,7 +413,7 @@
       <workItem from="1586864394701" duration="2991000" />
       <workItem from="1586913226583" duration="2128000" />
       <workItem from="1586925479503" duration="2961000" />
-      <workItem from="1586934772952" duration="3727000" />
+      <workItem from="1586934772952" duration="5238000" />
     </task>
     <servers />
   </component>
@@ -408,12 +432,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="196131000" />
+    <option name="totallyTimeSpent" value="197642000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16823056" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16823056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -440,7 +464,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" x="1220" y="99" width="294" height="689" id="Run" order="9" type="FLOATING" visible="true" weight="0.4567039" />
+      <window_info anchor="right" x="1220" y="99" width="294" height="689" id="Run" order="9" type="FLOATING" weight="0.4567039" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,9 +474,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/volatile.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/Demo/NumberPJ.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -770,16 +791,6 @@
     <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/FileWriter继承结构.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/ScannerStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -803,6 +814,29 @@
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/SerializableStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="15" lean-forward="true" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#919#946#1" expanded="true" />
+            <element signature="e#1174#1175#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
           </folding>
         </state>
       </provider>
