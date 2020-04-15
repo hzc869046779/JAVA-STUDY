@@ -6,7 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0090ccc8-db74-4497-ac80-1b76f172ccfc" name="Default Changelist" comment="" />
+    <list default="true" id="0090ccc8-db74-4497-ac80-1b76f172ccfc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/javaSenior/FileStudy/FileOP.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/javaSenior/FileStudy/FileOP.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,47 +22,47 @@
     <session id="1144161803">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="32" />
+          <entry key="project.closed" value="35" />
           <entry key="project.open.time.10" value="5" />
-          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="3" />
+          <entry key="project.open.time.7" value="4" />
           <entry key="project.open.time.8" value="10" />
-          <entry key="project.open.time.9" value="9" />
-          <entry key="project.opened" value="38" />
+          <entry key="project.open.time.9" value="11" />
+          <entry key="project.opened" value="42" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="148" />
-          <entry key="png" value="5" />
+          <entry key="java" value="163" />
+          <entry key="png" value="10" />
           <entry key="properties" value="2" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Image" value="5" />
-          <entry key="JAVA" value="148" />
+          <entry key="Image" value="10" />
+          <entry key="JAVA" value="163" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
+          <entry key="dummy" value="9" />
           <entry key="ft" value="4" />
-          <entry key="java" value="31089" />
+          <entry key="java" value="33261" />
           <entry key="properties" value="38" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="31087" />
-          <entry key="PLAIN_TEXT" value="11" />
+          <entry key="JAVA" value="33259" />
+          <entry key="PLAIN_TEXT" value="16" />
           <entry key="Properties" value="38" />
           <entry key="RegExp" value="2" />
           <entry key="VTL" value="4" />
@@ -67,17 +71,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -95,15 +89,12 @@
       <find>start0</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/DesighModel/SingleModel.java" />
-        <option value="$PROJECT_DIR$/src/DesighModel/SingleModel/SingleModel.java" />
-        <option value="$PROJECT_DIR$/src/javaStudy/enumStudy/enumStudy.java" />
-        <option value="$PROJECT_DIR$/src/javaStudy/enumStudy/enumDemo.java" />
-        <option value="$PROJECT_DIR$/src/javaStudy/ExceptionStudy/ExceptionStudy.java" />
-        <option value="$PROJECT_DIR$/src/javaStudy/ExceptionStudy/MyMathException.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/ExceptionStudy/DIYException.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/innerClass/innerClass.java" />
         <option value="$PROJECT_DIR$/src/javaStudy/innerClass/inner_interface.java" />
@@ -148,7 +139,13 @@
         <option value="$PROJECT_DIR$/src/media_file/aaa.txt" />
         <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/File.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/FileOP.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/RandomAccessFile.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/RandomAccessFileStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/printStreamStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/SystemIO.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/FileStudy/ScannerStudy.java" />
       </list>
     </option>
   </component>
@@ -160,16 +157,20 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="265" />
-    <option name="y" value="25" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -210,15 +211,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="set&#9;ACTION&#9;Images.SetBackgroundImage" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586849880038" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586938503914" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
@@ -231,16 +230,17 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="DataStructure.List" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior\ThreadStudy" />
+    <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior" />
-      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior\FileStudy" />
+      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior\ThreadStudy" />
       <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld\src\javaSenior" />
+      <recent name="C:\Users\Administrator.PC-201810051050\IdeaProjects\HelloWorld" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -255,35 +255,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileOP">
-    <configuration name="Base64Study" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.Base64Study" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaSenior.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ComparatorStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.Comparator.ComparatorStudy" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaSenior.Comparator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileOP" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.FileOP" />
+  <component name="RunManager" selected="Application.ScannerStudy">
+    <configuration name="BufferReaderStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.BufferReaderStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -295,12 +269,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadLocalStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.ThreadStudy.ThreadLocalStudy" />
+    <configuration name="RandomAccessFileStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.RandomAccessFileStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSenior.ThreadStudy.*" />
+          <option name="PATTERN" value="javaSenior.FileStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +282,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.reStudy.reStudy" />
+    <configuration name="ScannerStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.ScannerStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSenior.reStudy.*" />
+          <option name="PATTERN" value="javaSenior.FileStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SystemIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.SystemIO" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaSenior.FileStudy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="printStreamStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.FileStudy.printStreamStudy" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaSenior.FileStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,19 +322,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.reStudy" />
-      <item itemvalue="Application.ThreadLocalStudy" />
-      <item itemvalue="Application.Base64Study" />
-      <item itemvalue="Application.ComparatorStudy" />
-      <item itemvalue="Application.FileOP" />
+      <item itemvalue="Application.RandomAccessFileStudy" />
+      <item itemvalue="Application.printStreamStudy" />
+      <item itemvalue="Application.SystemIO" />
+      <item itemvalue="Application.BufferReaderStudy" />
+      <item itemvalue="Application.ScannerStudy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FileOP" />
-        <item itemvalue="Application.reStudy" />
-        <item itemvalue="Application.ComparatorStudy" />
-        <item itemvalue="Application.Base64Study" />
-        <item itemvalue="Application.ThreadLocalStudy" />
+        <item itemvalue="Application.ScannerStudy" />
+        <item itemvalue="Application.BufferReaderStudy" />
+        <item itemvalue="Application.SystemIO" />
+        <item itemvalue="Application.printStreamStudy" />
+        <item itemvalue="Application.RandomAccessFileStudy" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +385,11 @@
       <workItem from="1586739938042" duration="5923000" />
       <workItem from="1586746578493" duration="353000" />
       <workItem from="1586826972013" duration="5518000" />
-      <workItem from="1586838069721" duration="631000" />
+      <workItem from="1586838069721" duration="6656000" />
+      <workItem from="1586864394701" duration="2991000" />
+      <workItem from="1586913226583" duration="2128000" />
+      <workItem from="1586925479503" duration="2961000" />
+      <workItem from="1586934772952" duration="3727000" />
     </task>
     <servers />
   </component>
@@ -404,13 +408,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="178299000" />
+    <option name="totallyTimeSpent" value="196131000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16018766" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16823056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -418,12 +421,12 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32867134" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.33240223" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -437,7 +440,7 @@
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="right" x="1224" y="99" width="290" height="689" id="Run" order="9" type="FLOATING" weight="0.4567039" />
+      <window_info anchor="right" x="1220" y="99" width="294" height="689" id="Run" order="9" type="FLOATING" visible="true" weight="0.4567039" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -447,30 +450,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="719" column="17" lean-forward="true" selection-start-line="719" selection-start-column="17" selection-end-line="719" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/多线程结构图.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/Callable.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/多线程执行过程.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/DeadLock.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/Demo/qiangda.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/volatile.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -629,19 +608,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/Messages_en_US.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="18" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/LocaleStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaStudy/StringStudy/stringStudy.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -658,12 +630,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/Messages_zh_CN.properties">
-      <provider editor-type-id="ResourceBundle" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="11" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
+      <provider editor-type-id="ResourceBundle" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/ProducerConsumer.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -729,13 +701,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/Base64Study.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="43" column="27" selection-start-line="43" selection-start-column="27" selection-end-line="43" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/ThreadLocalStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="368">
@@ -750,30 +715,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/Comparator/ComparatorStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/reStudy/reStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
           <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/LocaleStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/Comparator/ComparatorStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1248">
+          <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/Base64Study.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-128">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/FileOP.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="23" column="11" lean-forward="true" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state relative-caret-position="458">
+          <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -782,8 +755,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="26" lean-forward="true" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/SystemIO.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/FileWriter继承结构.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/ScannerStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/RandomAccessFileStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="20" selection-start-line="21" selection-start-column="20" selection-end-line="21" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/FileStudy/printStreamStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
