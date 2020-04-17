@@ -8,15 +8,16 @@
   <component name="ChangeListManager">
     <list default="true" id="0090ccc8-db74-4497-ac80-1b76f172ccfc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/BufferReaderStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/BufferReaderStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/FileOP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/FileOP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/FileWriter继承结构.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/FileWriter继承结构.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/RandomAccessFileStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/RandomAccessFileStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/ScannerStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/SerializableStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/SerializableStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/StreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/StreamStudy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/SystemIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/SystemIO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSenior/FileStudy/printStreamStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/printStreamStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/DesighModel/SingleModel/Single.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/DesighModel/SingleModel/SingleModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/javaStudy/inheritStudy/animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/javaStudy/inheritStudy/animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/javaStudy/inheritStudy/cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/javaStudy/inheritStudy/cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HelloWorld/javaStudy/inheritStudy/dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HelloWorld/javaStudy/inheritStudy/dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DesighModel/SingleModel/SingleModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignModel/SingleModel/SingleModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javaStudy/inheritStudy/inheritStudy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javaStudy/inheritStudy/inheritStudy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,22 +30,22 @@
     <session id="1144161803">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="39" />
+          <entry key="project.closed" value="41" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="6" />
           <entry key="project.open.time.12" value="3" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.7" value="5" />
-          <entry key="project.open.time.8" value="10" />
+          <entry key="project.open.time.7" value="6" />
+          <entry key="project.open.time.8" value="11" />
           <entry key="project.open.time.9" value="13" />
-          <entry key="project.opened" value="45" />
+          <entry key="project.opened" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="215" />
+          <entry key="java" value="262" />
           <entry key="png" value="12" />
           <entry key="properties" value="2" />
           <entry key="txt" value="2" />
@@ -54,7 +55,7 @@
         <counts>
           <entry key="CLASS" value="1" />
           <entry key="Image" value="12" />
-          <entry key="JAVA" value="215" />
+          <entry key="JAVA" value="262" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="Properties" value="2" />
         </counts>
@@ -63,14 +64,14 @@
         <counts>
           <entry key="dummy" value="9" />
           <entry key="ft" value="4" />
-          <entry key="java" value="39624" />
+          <entry key="java" value="44108" />
           <entry key="properties" value="38" />
           <entry key="txt" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39622" />
+          <entry key="JAVA" value="44106" />
           <entry key="PLAIN_TEXT" value="16" />
           <entry key="Properties" value="38" />
           <entry key="RegExp" value="2" />
@@ -82,61 +83,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/ClassLoder.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetOutPutStudy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
+            <state relative-caret-position="192">
+              <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/Message.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="31" />
-              <folding>
-                <element signature="e#186#187#0" expanded="true" />
-                <element signature="e#230#231#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/StreamStudy.java">
+        <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/IOStream.png">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/folderCopyDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-834">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/printStreamStudy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-624">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="176">
+              <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -165,19 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/ThreadDemo.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/Process_thread.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/DeadLock.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/ProducerConsumer.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/DemandThread.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/volatileStudy.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/Demo/NumberPJ.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/Demo/ProduceComputer.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/JUC.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/ThreadStudy/Demo/qiangda.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/JavaBaseClass/CharSequenceStudy.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/JavaBaseClass/AutoCloseableStudy.java" />
-        <option value="$PROJECT_DIR$/src/javaSenior/JavaBaseClass/SystemStudy.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/JavaBaseClass/CleanerStudy.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/JavaBaseClass/CloneableStudy.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/JavaBaseClass/RunTimeStudy.java" />
@@ -216,6 +165,19 @@
         <option value="$PROJECT_DIR$/src/javaSenior/reflectStudy/ClassLoder.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/IOStudy/StreamStudy.java" />
         <option value="$PROJECT_DIR$/src/javaSenior/IOStudy/folderCopyDemo.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/reflectStudy/ProxyDesign.java" />
+        <option value="$PROJECT_DIR$/src/DesignModel/ProxyDesign.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/reflectStudy/DynamicProxy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/reflectStudy/reflectAnnotation.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/CollectionStudy/CollectionStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/ListBase.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/LinkedListStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/ArrayListStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/VectorStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetStudy/HashSetStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetStudy/TreeSetStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java" />
+        <option value="$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetOutPutStudy.java" />
       </list>
     </option>
   </component>
@@ -226,8 +188,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="193" />
-    <option name="y" value="18" />
+    <option name="x" value="191" />
+    <option name="y" value="16" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -239,7 +201,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -253,43 +215,22 @@
               <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaSenior" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaSenior" type="462c0819:PsiDirectoryNode" />
-              <item name="IOStudy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HelloWorld" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HelloWorld" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javaSenior" type="462c0819:PsiDirectoryNode" />
-              <item name="IOStudy" type="462c0819:PsiDirectoryNode" />
-              <item name="SerializableStudy.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="set&#9;ACTION&#9;Images.SetBackgroundImage" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587096878323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587138720047" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -323,13 +264,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.StreamStudy">
-    <configuration name="ClassLoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.reflectStudy.ClassLoder" />
+  <component name="RunManager" selected="Application.SetOutPutStudy">
+    <configuration name="HashSetStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.ClassSetStudy.SetStudy.HashSetStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSenior.reflectStudy.*" />
+          <option name="PATTERN" value="javaSenior.ClassSetStudy.SetStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,8 +278,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.IOStudy.StreamStudy" />
+    <configuration name="LinkedListStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.ClassSetStudy.ListSet.LinkedListStudy" />
+      <module name="HelloWorld" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaSenior.ClassSetStudy.ListSet.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScannerStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.IOStudy.ScannerStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
@@ -350,12 +304,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="methodInvoke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.reflectStudy.methodInvoke" />
+    <configuration name="SetOutPutStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.ClassSetStudy.SetOutPutStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSenior.reflectStudy.*" />
+          <option name="PATTERN" value="javaSenior.ClassSetStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -363,25 +317,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="reflectDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.reflectStudy.reflectDemo" />
+    <configuration name="TreeSetStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaSenior.ClassSetStudy.SetStudy.TreeSetStudy" />
       <module name="HelloWorld" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javaSenior.reflectStudy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaSenior.test" />
-      <module name="HelloWorld" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javaSenior.*" />
+          <option name="PATTERN" value="javaSenior.ClassSetStudy.SetStudy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,19 +331,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.methodInvoke" />
-      <item itemvalue="Application.reflectDemo" />
-      <item itemvalue="Application.test" />
-      <item itemvalue="Application.ClassLoder" />
-      <item itemvalue="Application.StreamStudy" />
+      <item itemvalue="Application.LinkedListStudy" />
+      <item itemvalue="Application.HashSetStudy" />
+      <item itemvalue="Application.TreeSetStudy" />
+      <item itemvalue="Application.ScannerStudy" />
+      <item itemvalue="Application.SetOutPutStudy" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamStudy" />
-        <item itemvalue="Application.ClassLoder" />
-        <item itemvalue="Application.reflectDemo" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.methodInvoke" />
+        <item itemvalue="Application.SetOutPutStudy" />
+        <item itemvalue="Application.ScannerStudy" />
+        <item itemvalue="Application.TreeSetStudy" />
+        <item itemvalue="Application.HashSetStudy" />
+        <item itemvalue="Application.LinkedListStudy" />
       </list>
     </recent_temporary>
   </component>
@@ -461,6 +402,8 @@
       <workItem from="1586946501096" duration="3990000" />
       <workItem from="1587026631917" duration="15951000" />
       <workItem from="1587086122316" duration="9089000" />
+      <workItem from="1587096995247" duration="11367000" />
+      <workItem from="1587130674871" duration="8042000" />
     </task>
     <servers />
   </component>
@@ -479,12 +422,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226672000" />
+    <option name="totallyTimeSpent" value="246081000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16420911" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16823056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -502,7 +445,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.14125875" />
-      <window_info anchor="bottom" x="871" y="242" width="369" height="689" id="Run" order="11" weight="0.23916084" />
+      <window_info anchor="bottom" x="871" y="242" width="369" height="689" id="Run" order="11" weight="0.22097902" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -521,146 +464,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/innerClass/innerClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-570">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/Process_thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="634">
-          <caret line="89" column="6" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/AutoCloseableStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/CharSequenceStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/CleanerStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="410">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/RunTimeStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/CloneableStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/MathClass/MathDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/Messages_en_US.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="18" selection-start-column="18" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/ThreadDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-96">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/Messages_zh_CN.properties">
-      <provider editor-type-id="ResourceBundle" />
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="11" selection-start-column="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/ThreadStudy/ProducerConsumer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="84" column="6" selection-start-line="84" selection-start-column="6" selection-end-line="84" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/test11.java" />
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/DateProcessStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="112">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Functional/FunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaStudy/Functional/InFunctionalInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/List/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-240">
-          <caret line="21" column="24" lean-forward="true" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/SystemStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/JavaBaseClass/StringBufferStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DataStructure/BTree/BaseBTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -692,13 +499,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/Comparator/ComparatorStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="88" column="6" selection-start-line="88" selection-start-column="6" selection-end-line="88" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/Base64Study.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-128">
@@ -706,7 +506,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DesighModel/SingleModel/SingleModel.java">
+    <entry file="file://$PROJECT_DIR$/src/DesignModel/SingleModel/SingleModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="32">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -763,44 +563,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/reflectDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="38" column="34" lean-forward="true" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/methodInvoke.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" column="23" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1403#1404#0" expanded="true" />
-            <element signature="e#1439#1440#0" expanded="true" />
-            <element signature="e#1480#1481#0" expanded="true" />
-            <element signature="e#1516#1517#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/reflectBase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1073">
           <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/refectFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -831,58 +597,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java">
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/StreamStudy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="19" column="19" lean-forward="true" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
+        <state relative-caret-position="256">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/BufferReaderStudy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="1" selection-start-line="18" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="192">
+          <caret line="12" column="72" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="72" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/Message.java">
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/reflectDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-column="31" />
-          <folding>
-            <element signature="e#186#187#0" expanded="true" />
-            <element signature="e#230#231#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/printStreamStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-624">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        <state relative-caret-position="384">
+          <caret line="51" column="59" selection-start-line="51" selection-start-column="38" selection-end-line="51" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/ClassLoder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="59" column="36" lean-forward="true" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/SerializableStudy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="59" column="36" selection-start-line="59" selection-start-column="36" selection-end-line="59" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -891,18 +630,230 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/folderCopyDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-834">
+        <state relative-caret-position="16">
           <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/StreamStudy.java">
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/printStreamStudy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        <state relative-caret-position="16">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/methodInvoke.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="56" column="32" selection-start-line="56" selection-start-column="32" selection-end-line="56" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaStudy/enumStudy/enumDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/DynamicProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/refectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/reflectStudy/reflectAnnotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#346#373#1" expanded="true" />
+            <element signature="e#411#412#0" expanded="true" />
+            <element signature="e#447#448#0" expanded="true" />
+            <element signature="e#1835#1836#0" expanded="true" />
+            <element signature="e#1882#1883#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/List/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DesignModel/ProxyDesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataStructure/BTree/BaseBTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/SerializableStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="438">
+          <caret line="41" column="6" selection-start-line="41" selection-start-column="6" selection-end-line="41" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-36">
+          <caret line="83" column="21" lean-forward="true" selection-start-line="83" selection-start-column="21" selection-end-line="83" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-212">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="548">
+          <caret line="233" column="17" selection-start-line="233" selection-start-column="17" selection-end-line="233" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_231/src.zip!/java/util/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="153" column="7" lean-forward="true" selection-start-line="153" selection-start-column="7" selection-end-line="153" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/Comparator/ComparatorStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetStudy/TreeSetStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="75" lean-forward="true" selection-start-line="75" selection-end-line="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2043#2044#0" expanded="true" />
+            <element signature="e#2089#2090#0" expanded="true" />
+            <element signature="e#1664#1665#0" expanded="true" />
+            <element signature="e#1717#1718#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetStudy/HashSetStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/ListBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/CollectionStudy/CollectionStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/LinkedListStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="55" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/ArrayListStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/ListSet/VectorStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="21" lean-forward="true" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/ClassSetStudy/SetOutPutStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="30" column="38" lean-forward="true" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/javaSenior/IOStudy/ScannerStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>

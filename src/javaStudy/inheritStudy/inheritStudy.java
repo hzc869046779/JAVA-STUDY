@@ -106,7 +106,7 @@ class animal{
         System.out.println(String.format("zoo: %s",this.zoo));
     }
     public void test(){
-        System.out.println("animal DesighModel.test 方法");
+        System.out.println("animal DesignModel.test 方法");
     }
 }
 
@@ -127,13 +127,13 @@ class dog extends animal{
     }
 
     public void test(){
-        System.out.println("dog DesighModel.test 方法");
+        System.out.println("dog DesignModel.test 方法");
     }
 }
 
 class cat extends animal{
     public void test(){
-        System.out.println("cat DesighModel.test 方法");
+        System.out.println("cat DesignModel.test 方法");
     }
 }
 

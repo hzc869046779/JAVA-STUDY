@@ -1,4 +1,4 @@
-package DesighModel.SingleModel;
+package DesignModel.SingleModel;
 
 public class SingleModel {
     public static void main(String args[]){

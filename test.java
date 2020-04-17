@@ -1,4 +1,4 @@
-package DesighModel;
+package DesignModel;
 
 public class test {
     public static void main(String[] args){

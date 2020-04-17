@@ -9,7 +9,7 @@
 
   此文件夹下主要是java数据结构实现的一些代码。
 
-- DesighModel
+- DesignModel
 
   此文件夹下主要是java设计模式的一些代码。
 
