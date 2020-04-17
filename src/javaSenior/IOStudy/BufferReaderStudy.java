@@ -1,4 +1,4 @@
-package javaSenior.FileStudy;
+package javaSenior.IOStudy;
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
 /**

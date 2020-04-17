@@ -1,8 +1,7 @@
-package javaSenior.FileStudy;
+package javaSenior.IOStudy;
 import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
-import java.util.stream.StreamSupport;
 
 /**
  * @ClassName FileOP

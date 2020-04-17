@@ -1,4 +1,4 @@
-package javaSenior.FileStudy;
+package javaSenior.IOStudy;
 import java.io.File;
 import java.io.RandomAccessFile;
 

@@ -1,7 +1,6 @@
-package javaSenior.FileStudy;
+package javaSenior.IOStudy;
 
 import java.io.*;
-import java.util.function.Predicate;
 
 /**
  * @ClassName printStreamStudy
